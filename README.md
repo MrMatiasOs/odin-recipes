@@ -1,1 +1,1 @@
-This is my first practice proyect from the Odin Proyect
+This is my first practice from the Odin Project 
